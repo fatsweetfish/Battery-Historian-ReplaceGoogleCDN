@@ -1,0 +1,17 @@
+{
+    "name": "Battery Historian Replace Google CDN",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "icons": {
+      "128": "icons/128.png"
+    },
+    "description": "Battery Historian Replace Google CDN with loli CDN.",
+    "background": {
+        "scripts": ["js/main.js"]
+    },
+    "permissions": [
+        "webRequest", "webRequestBlocking", "<all_urls>"
+    ],
+    "author": "fatsweetfish",
+    "homepage_url": "https://github.com/fatsweetfish/Battery-Historian-ReplaceGoogleCDN"
+}
